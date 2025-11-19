@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=3000&color=F70E84&center=true&vCenter=true&width=700&lines=Hey!!+I'm+Kanchan;Welcome+to+My+GitHub+Profile;B.Tech+CSE+Student+👩‍💻" />
 </p>
 
-<!-- Wavy Divider -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header"/>
-</p>
+
 
 ---
 
