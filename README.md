@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kanchan 👋</h1>
 
-<!--
-**Kanchan-5002/Kanchan-5002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me  
+🌸 Computer Science Engineering Student  
+🌿 Love listening to music & spending time in nature  
+🎯 Focused, dedicated & always eager to learn  
+🌱 Currently improving my web development & coding skills  
+💡 Goal: To become a successful and independent person  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills  
+- HTML  
+- C, C++, Java  
+- Git & GitHub  
+- Basic Projects & Learning More…
+
+---
+
+### 📫 Connect With Me  
+📧 Email: kaundalkanchan60@gmail.com  
+📍 India  
+
+---
