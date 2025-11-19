@@ -1,6 +1,6 @@
 <!-- Animated Profile Header -->
 <h1 align="center">
-  <h1 align="center">Hey there, I'm <span style="color:#00C9FF;">Kanchan</span></h1>
+  <h1 align="center">Hey!! I'm <span style="color:#00C9FF;">Kanchan</span></h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Welcome!&fontSize=48&fontColor=ffffff"/>
