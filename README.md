@@ -71,12 +71,7 @@ Focused, dedicated and always improving myself! 💖
 ---
 
 
-## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:samarsimran492@gmail.com" target="_blank" title="Email Me">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a>
   <a href="https://linkedin.com/in/SimranRamgarhia" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
