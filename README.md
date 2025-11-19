@@ -37,7 +37,7 @@ Focused, dedicated and always improving myself! 💖
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img alt="Kanchan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kanchan -5002&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0,232526,414345&title_color=6C63FF&icon_color=FFD700&text_color=F8F8FF" height="185"/>
+  <img alt="Kanchan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kanchan-5002&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0,232526,414345&title_color=6C63FF&icon_color=FFD700&text_color=F8F8FF" height="185"/>
   &nbsp;
 
 ## ✨ Skills & Tools
