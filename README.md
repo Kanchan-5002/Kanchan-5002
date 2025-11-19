@@ -1,7 +1,6 @@
 <!-- Animated Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=750&color=6C63FF&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kanchan!;Hey+there%2C+I'm+Kanchan+" alt="Typing SVG" />
-</h1>
+  <h1 align="center">Hey there, I'm <span style="color:#00C9FF;">Kanchan</span></h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Welcome!&fontSize=48&fontColor=ffffff"/>
