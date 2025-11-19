@@ -72,9 +72,7 @@ Focused, dedicated and always improving myself! 💖
 
 
 
-  <a href="https://linkedin.com/in/SimranRamgarhia" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
+  
 
 
 </p>
@@ -87,6 +85,8 @@ Focused, dedicated and always improving myself! 💖
 <p align="center">
   <a href="mailto: kaundalkanchan60@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><a href="https://linkedin.com/in/SimranRamgarhia" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
 
