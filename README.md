@@ -1,5 +1,4 @@
-
----<!-- Animated Top Header -->
+<!-- Animated Top Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=3000&color=F70E84&center=true&vCenter=true&width=700&lines=Hey!!+I'm+Kanchan;Welcome+to+My+GitHub+Profile;B.Tech+CSE+Student+👩‍💻" />
 </p>
@@ -52,4 +51,4 @@ Focused, dedicated and always improving myself! 💖
 
 ---
 
-<p align="center">🌸 Thanks for visiting my profile 💖</p>
+<p align="center"> Thanks for visiting my profile </p>
