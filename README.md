@@ -10,13 +10,13 @@
 
 ---
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center"> About Me</h2>
 
-<p align="center">👩‍💻 B.Tech CSE Student  
-- 🎯 Focused, dedicated and disciplined  
+<p align="center">👩‍💻 B.Tech CSE Student  <br>
+- 🎯 Focused, dedicated and disciplined  <br>
 - 🌱 Currently learning Web Development  
 <br>
-Focused, dedicated and always improving myself! 💖
+Focused, dedicated and always improving myself! 
 </p>
 
 ---
