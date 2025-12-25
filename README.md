@@ -76,7 +76,7 @@ Focused, dedicated and always improving myself!
   <a href="mailto: kaundalkanchan60@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
   </a><a href="https://linkedin.com/in/Kanchan ." target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+    <img src=https://www.linkedin.com/in/kanchan-086903336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
   </a>
 </p>
 
