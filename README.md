@@ -14,7 +14,7 @@
 
 <p align="center">👩‍💻 B.Tech CSE Student  <br>
 - 🎯 Focused, dedicated and disciplined  <br>
-- 🌱 Currently learning Web Development  
+- 🌱 Currently learning python 
 <br>
 Focused, dedicated and always improving myself! 
 </p>
